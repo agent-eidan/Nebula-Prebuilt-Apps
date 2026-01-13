@@ -5,11 +5,11 @@ Current applications:
 -Clock
 ----------------------
 
-Apps on development:
+**Apps on development:**
 -Notepad
 -Calculator (almost finished)
 -Launcher
-
+-----------------------
 
 Special thanks to Pilot and lowisfigo17 for letting me work for their project
 
